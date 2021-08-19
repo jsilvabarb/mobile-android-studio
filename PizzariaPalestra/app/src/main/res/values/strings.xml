@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizzaria Palestra</string>
+    <string name="Titulo">Ingredientes:</string>
+    <string name="Brinde">Na compra de 2 Pizzas,
+        você leva um refri de brinde!</string>
+    <string name="TituloDois">Promoção:</string>
+    <string name="TituloTres">Taxa de Entrega</string>
+    <string name="Taxa">R$2,00 a cada 8km.</string>
+</resources>
